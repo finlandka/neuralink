@@ -1,0 +1,24 @@
+.form__email {
+  width: 100%;
+  box-sizing: border-box;
+  color: #bbbfbf;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+  border-bottom: #bbbfbf 1px solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.form__email::placeholder {
+    text-transform: uppercase;
+    color: #bbbfbf;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+}
+
+.form__email:focus {
+    outline: none;
+}

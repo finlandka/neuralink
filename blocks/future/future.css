@@ -1,0 +1,9 @@
+.future {
+    width: 100%;
+    height: 650px;
+    box-sizing: border-box;
+    background: url('../../images/future.jpeg');
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

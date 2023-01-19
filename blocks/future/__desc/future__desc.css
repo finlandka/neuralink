@@ -1,0 +1,8 @@
+.future__desc {
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #fff;
+    margin: 28px 0 0;
+    flex-grow: 1;
+}

@@ -1,0 +1,12 @@
+.form__submit {
+    background-image: url('../../../images/submit.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #fff;
+    border: none;
+    border-bottom:#bbbfbf 1px solid;
+    width: 15px;
+    height: 15px;
+    padding: 15px 0;
+    cursor: pointer;
+}

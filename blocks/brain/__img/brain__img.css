@@ -1,0 +1,8 @@
+.brain__img {
+  margin: 0 auto;
+  padding-top: 30px;
+  width: 400px;
+  height: 400px;
+  object-fit: contain;
+  object-position: 50% 50%;
+}

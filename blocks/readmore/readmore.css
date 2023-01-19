@@ -1,0 +1,21 @@
+.readmore {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 24px;
+    color: #fff;
+    text-decoration: none;
+    transition: opacity .4s ease-in;
+    text-transform: uppercase;
+    padding-right: 27px;
+    background-image: url('../../images/readmore.png');
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.readmore:hover {
+    opacity: .6;
+}
+
+.readmore:nth-of-type(2) {
+    margin-left: 21px;
+}
